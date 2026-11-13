@@ -1,1 +1,1 @@
-Pictures for the pull request "Guide: the 360 Guide's own skin, geometry and page frame": each page of the Guide in 1.4.0 beside the same page with the change, drawn off screen by guide-preview.exe on a black background with sample players.
+Pictures for the pull request "Guide: the 360 Guide's own skin, geometry and page frame": each page of the Guide in 1.4.0 beside the same page with the change, in the Xbox theme and in the new Xbox 360 theme, drawn off screen by guide-preview.exe on a black background with sample players.
